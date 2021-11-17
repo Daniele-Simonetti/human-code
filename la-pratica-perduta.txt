@@ -27,4 +27,5 @@ FINCHE' c'è un foglio:
 Prendo il foglio e lo metto da parte (Lista scansionati)
 Al computer salvo il documento in formato .pdf
 
+
 END
